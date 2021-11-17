@@ -1,0 +1,11 @@
+.nav {
+  padding: 20px;
+}
+
+header {
+  border-bottom: 2px solid white;
+}
+
+.nav a {
+  color: white;
+}

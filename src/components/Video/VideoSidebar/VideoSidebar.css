@@ -1,0 +1,25 @@
+.videoSidebar {
+  position: absolute;
+  right: 0;
+  top: 0;
+  box-shadow: 4px 4px 25px 21px rgba(34, 60, 80, 0.2);
+  color: black;
+  background-color: #fff;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.videoSidebar img {
+  width: 60px;
+  border-radius: 50%;
+}
+
+.likes,
+.comments {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 15px;
+}

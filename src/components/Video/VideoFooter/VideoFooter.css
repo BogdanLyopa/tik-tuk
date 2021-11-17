@@ -1,0 +1,15 @@
+.videoFooter {
+  position: absolute;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  padding-left: 5px;
+  background: linear-gradient(
+    rgba(22, 24, 35, 0) 2.92%,
+    rgba(22, 24, 35, 0.5) 98.99%
+  );
+}
+
+.videoFooter__text {
+  font-size: 12px;
+}
